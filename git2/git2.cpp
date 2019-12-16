@@ -25,7 +25,7 @@ int main()
 
 		cin >> c >> d;
 
-		cout << "функция в разработке" << endl;
+		cout  << MySub(c, d) << endl;
 		break;
 	case 3:
 		// Вычитание
