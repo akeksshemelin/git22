@@ -28,14 +28,14 @@ int main()
 		cout  << MySub(c, d) << endl;
 		break;
 	case 3:
-		// Вычитание
+		// умножение
 
 		cin >> c >> d;
 
 		cout << "функция в разработке" << endl;
 		break;
 	case 4:
-		// Вычитание
+		// деление
 		cout << "функция в разработке" << endl;
 		break;
 
