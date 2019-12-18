@@ -32,7 +32,7 @@ int main()
 
 		cin >> c >> d;
 
-		cout << "функция в разработке" << endl;
+		cout << MyMul(c, d) << endl;
 		break;
 	case 4:
 		// деление
