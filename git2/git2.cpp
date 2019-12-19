@@ -22,21 +22,23 @@ int main()
 		break;
 	case 2:
 		// Вычитание
-
+		cout << "ввдите a и b" << endl;
 		cin >> c >> d;
 
 		cout  << MySub(c, d) << endl;
 		break;
 	case 3:
 		// умножение
-
+		cout << "ввдите a и b" << endl;
 		cin >> c >> d;
 
 		cout << MyMul(c, d) << endl;
 		break;
 	case 4:
 		// деление
-		cout << "функция в разработке" << endl;
+		cout << "ввдите a и b" << endl;
+		cin >> c >> d;
+		cout << MyDiv(c, d) << endl;
 		break;
 
 	}
